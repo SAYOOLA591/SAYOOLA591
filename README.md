@@ -48,18 +48,6 @@ End-to-end CTI → SIEM automation pipeline
 
 ---
 
-## **Network Monitoring Lab (Zeek + Suricata IDS)**  
-
-A dedicated IDS engineering project:
-- Zeek protocol analysis  
-- Suricata custom rule tuning  
-- Network log ingestion into Splunk  
-- Visibility into DNS, TLS, HTTP, JA3, user-agents  
-
-➡️ *Deep network telemetry for hunting + detection engineering.*
-
----
-
 # 🧰 Tools & Technologies
 
 <p align="left">
