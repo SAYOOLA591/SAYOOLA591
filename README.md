@@ -48,6 +48,12 @@ End-to-end CTI → SIEM automation pipeline
 
 ---
 
+## 📄 Incident Response Report – KCD Domain Compromise (CTF)
+Full investigation report:  
+https://www.notion.so/Incident-Report-KCD-Domain-Compromise-Data-Exfiltration-2bb4243e498380eeb5b3ffde859661d7
+
+---
+
 # 🧰 Tools & Technologies
 
 <p align="left">
