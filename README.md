@@ -48,9 +48,22 @@ End-to-end CTI → SIEM automation pipeline
 
 ---
 
-## 📄 DFIR Case Study – KCD Domain Compromise & Data Exfiltration
+## 📄 DFIR Case Study – Investigation Reports
+### KCD Domain Compromise & Data Exfiltration
 Full investigation report:  
 https://www.notion.so/Incident-Report-KCD-Domain-Compromise-Data-Exfiltration-2bb4243e498380eeb5b3ffde859661d7
+
+
+### Email Phishing Investigation/Malware Detection
+Full investigation report: 
+
+https://www.notion.so/Email-Phishing-Investigation-2d04243e498380ffaca7f55ab710d68a
+
+### RDP Login and Neshta Malware Detection Incident ID 905
+Full investigation report: 
+
+https://www.notion.so/RDP-Login-and-Neshta-Malware-Detection-Incident-ID-905-2cb4243e498380cf9b0bc47547c15181
+
 
 ---
 
